@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FDFBF7;
+    color: #2D241E;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif;
+    color: #4A3728;
+  }
+}
+
+/* Custom Natural Tones utilities */
+.bg-natural-canvas {
+  background-color: #FDFBF7;
+}
+
+.bg-natural-surface {
+  background-color: #FFFFFF;
+}
+
+.bg-natural-soft {
+  background-color: #F5F1EB;
+}
+
+.bg-natural-highlight {
+  background-color: #FFF4E8;
+}
+
+.border-natural-border {
+  border-color: #E8E2D9;
+}
+
+.border-natural-accent {
+  border-color: #FADBB9;
+}
+
+.text-natural-dark {
+  color: #2D241E;
+}
+
+.text-natural-heading {
+  color: #4A3728;
+}
+
+.text-natural-muted {
+  color: #7A6E63;
+}
+
+.text-natural-terracotta {
+  color: #E67E22;
+}
+
+.bg-natural-terracotta {
+  background-color: #E67E22;
+}

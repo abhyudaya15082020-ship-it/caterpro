@@ -1,0 +1,6 @@
+{
+  "name": "CaterPro - Catering & Staff Booking",
+  "description": "Comprehensive catering and event staffing marketplace supporting Gents & Ladies service staff, customized food menus, instant quotations, and booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
